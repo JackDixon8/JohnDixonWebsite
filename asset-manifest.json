@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JohnDixonWebsite/static/css/main.429aa009.chunk.css",
+    "main.js": "/JohnDixonWebsite/static/js/main.01b34142.chunk.js",
+    "main.js.map": "/JohnDixonWebsite/static/js/main.01b34142.chunk.js.map",
+    "runtime-main.js": "/JohnDixonWebsite/static/js/runtime-main.bb465f35.js",
+    "runtime-main.js.map": "/JohnDixonWebsite/static/js/runtime-main.bb465f35.js.map",
+    "static/js/2.482b685f.chunk.js": "/JohnDixonWebsite/static/js/2.482b685f.chunk.js",
+    "static/js/2.482b685f.chunk.js.map": "/JohnDixonWebsite/static/js/2.482b685f.chunk.js.map",
+    "index.html": "/JohnDixonWebsite/index.html",
+    "static/css/main.429aa009.chunk.css.map": "/JohnDixonWebsite/static/css/main.429aa009.chunk.css.map",
+    "static/js/2.482b685f.chunk.js.LICENSE.txt": "/JohnDixonWebsite/static/js/2.482b685f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb465f35.js",
+    "static/js/2.482b685f.chunk.js",
+    "static/css/main.429aa009.chunk.css",
+    "static/js/main.01b34142.chunk.js"
+  ]
+}
