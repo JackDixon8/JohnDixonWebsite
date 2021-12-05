@@ -1,0 +1,73 @@
+.example {
+    background-color: #f0db7e;
+}
+
+.NavigationBarBoarder{
+
+    color:rgb(102, 222, 238);
+    background-color: rgb(125, 60, 245);
+    margin: 20px;
+    border: 5px dotted rgb(10, 21, 117);
+
+}
+
+
+
+.container-fluid{
+    color:rgb(102, 222, 238);
+    background-color: rgb(102, 222, 238);
+
+}
+
+.navbar{
+    color:rgb(102, 222, 238);
+    background-color: rgb(102, 222, 238);
+
+}
+
+
+.navbar-expand-lg{
+    color:rgb(102, 222, 238);
+    background-color: rgb(102, 222, 238);
+
+}
+
+
+.bg-light{
+    color:rgb(102, 222, 238);
+    background-color: rgb(102, 222, 238);
+
+}
+
+
+.navbar-light{
+    color:rgb(102, 222, 238);
+    background-color: rgb(102, 222, 238);
+
+}
+.navbar-toggler-icon{
+    color:rgb(102, 222, 238);
+    background-color: rgb(102, 222, 238);
+}
+
+.h4{ color:rgba(255, 38, 0, 0.432);
+
+
+
+}
+
+
+.DateTime{
+
+    color:rgba(255, 38, 0, 0.432);
+
+}
+
+
+
+.h1{
+
+    color:rgb(255, 0, 0);
+
+
+}
